@@ -1,0 +1,6 @@
+com\internfoxmula\hellodw\db\EmployeeDB.class
+com\internfoxmula\hellodw\Employee.class
+com\internfoxmula\hellodw\helloDWConfiguration.class
+com\internfoxmula\hellodw\helloDWApplication.class
+com\internfoxmula\hellodw\resources\EmployeeRESTController.class
+com\internfoxmula\hellodw\resources\helloReso.class
