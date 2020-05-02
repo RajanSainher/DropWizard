@@ -31,7 +31,7 @@ public class helloDWApplication extends Application<helloDWConfiguration> {
                     final Environment environment) {
         // TODO: implement application
         LOGGER.info("Registering REST resources");
-        //environment.jersey().register(new helloReso());
+        environment.jersey().register(new helloReso());
         environment.jersey().register(new EmployeeRESTController(environment.getValidator()));
         
         
